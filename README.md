@@ -1,2 +1,2 @@
 # daft
-a actor framework written in Go, inspired by dapr
+a actor framework written in Go, inspired by dapr.
